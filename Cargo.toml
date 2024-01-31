@@ -1,0 +1,8 @@
+[package]
+name = "vum"
+edition = "2021"
+version = "0.0.1"
+
+[dependencies]
+winit = "0.28.3"
+nexg = { version = "0.0.5", git = "https://github.com/Ichinose0/Nexg" }
